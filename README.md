@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sommcoder
+- 👀 I’m interested in e-commerce, enterprise resource planning and web development.
+- 🌱 I’m currently learning JavaScript, React and Node
+- 💞️ I’m looking to collaborate on ANYTHING! Looking to contribute and learn as much as possible! :)
+- 📫 How to reach me: brian.davies589@gmail.com
