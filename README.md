@@ -2,5 +2,5 @@
 - 📖 I’m proficient in JavaScript (ES6+) and modern React using function components & Hooks
 - 🌱 I'm currently learning PostgreSQL and aim to use it for my next project!
 - 👀 I’m interested in e-commerce, ERPs, PWAs and SaaS development.
-- ⚒️ I’m looking for work as a developer or perhaps a technical product manager role in the tech industry!
+- ⚒️ I’m looking for work as a developer or a technical product manager role in the tech industry!
 - 📫 Contact me: brian.davies589@gmail.com
