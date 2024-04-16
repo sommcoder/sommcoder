@@ -7,7 +7,7 @@ About Me:
 - 🏘️ I'm also looking to join any kind of software developer community groups or attend networking events!
 
 Portfolio/Freelance Website: <br/>
-
+<a href="https://www.sommcoder.com">https://www.sommcoder.com</a> <br/>
 
 Primary Skillset: <br/>
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
