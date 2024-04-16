@@ -7,7 +7,7 @@ About Me: <br/>
 - 🏘️ I'm also looking to join any kind of software developer community groups or attend networking events!
 <br/>
 <br/>
-Primary Skillset:<br/>
+Primary Skillset: <br/>
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
@@ -36,5 +36,4 @@ Workspace Toolbox: <br/>
 <br/>
 Contact Me:<br/>
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Link" >](https://www.linkedin.com/in/brian-davies-178b0b48/)
-![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)(mailto:brian.davies589Gmail.com)
 
