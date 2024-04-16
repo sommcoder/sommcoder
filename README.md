@@ -10,7 +10,7 @@
 - 🏘️ I'm also looking to join any kind of software developer community groups and attend networking events!
 
 
-# Primary Skillset (tech I use all the time):  <br/>
+## Primary Skillset (tech I use all the time):  <br/>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
@@ -27,7 +27,7 @@
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
 ![Google Sheets Badge](https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=fff&style=for-the-badge)
 <br/><br/>
-***Secondary Skillset (tech I occasionally work with):***  <br/>
+## Secondary Skillset (tech I occasionally work with): <br/>
 ![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
 ![Google Cloud Badge](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=for-the-badge)
@@ -41,7 +41,7 @@
 ![i18next Badge](https://img.shields.io/badge/i18next-26A69A?logo=i18next&logoColor=fff&style=for-the-badge)
 [![Liquid Badge](https://img.shields.io/badge/Liquid-Open%20Source-2B317C?style=for-the-badge&logo=liquid&logoColor=white)](https://www.liquid.com/)
 <br/><br/>
-***Tertiary Skillset (tech I have worked with):***  <br/>
+## Tertiary Skillset (tech I have worked with):  <br/>
 ![Prisma Badge](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff&style=for-the-badge)
 ![Remix Badge](https://img.shields.io/badge/Remix-000?logo=remix&logoColor=fff&style=for-the-badge)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
@@ -62,7 +62,7 @@
 ![Framer Badge](https://img.shields.io/badge/Framer-05F?logo=framer&logoColor=fff&style=for-the-badge)
 ![GitHub Pages Badge](https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=for-the-badge)
 <br/><br/>
-***Workspace Toolbox (complementary skills & platforms):*** <br/>
+## Workspace Toolbox (complementary skills & platforms): <br/>
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge)
 ![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge)
@@ -76,7 +76,7 @@
 ![GitHub Actions Badge](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=for-the-badge)
 ![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=for-the-badge)
 <br/><br/>
-***Contact Me:*** <br/>
+## Contact Me: <br/>
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Link" >](https://www.linkedin.com/in/brian-davies-178b0b48/)
 [<img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" />](mailto:brian.davies589@gmail.com)
 [<img src="https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=fff&style=for-the-badge" />](mailto:brian.davies@sommcoder.com)
