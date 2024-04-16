@@ -13,6 +13,8 @@
   <span style="font-size:larger;">Primary Skillset:</span>
 </p>
 
+<p align="center">
+  <span style="font-size:larger;">
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
@@ -28,7 +30,9 @@
 ![React Router Badge](https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=for-the-badge)
 ![React Query Badge](https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff&style=for-the-badge)
 ![JSON Badge](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=for-the-badge)
-<br/><br/>
+  </span>
+</p>
+
 ***Additional Skillset:*** <br/>
 ![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=for-the-badge)
 ![Prisma Badge](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff&style=for-the-badge)
@@ -49,6 +53,7 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Link" >](https://www.linkedin.com/in/brian-davies-178b0b48/)
 [<img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" />](mailto:brian.davies589@gmail.com)
 [<img src="https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=fff&style=for-the-badge" />](mailto:brian.davies@sommcoder.com)
+
 
 
 <!-- BADGIE TIME -->
