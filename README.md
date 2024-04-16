@@ -58,6 +58,7 @@
 ![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge)
 ![MDX Badge](https://img.shields.io/badge/MDX-1B1F24?logo=mdx&logoColor=fff&style=for-the-badge)
 ![Framer Badge](https://img.shields.io/badge/Framer-05F?logo=framer&logoColor=fff&style=for-the-badge)
+![GitHub Pages Badge](https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=for-the-badge)
 <br/><br/>
 ***Workspace Toolbox (complementary skills & platforms):*** <br/>
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
@@ -70,6 +71,7 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe InDesign Badge](https://img.shields.io/badge/Adobe%20InDesign-F36?logo=adobeindesign&logoColor=fff&style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions Badge](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=for-the-badge)
 ![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=for-the-badge)
 <br/><br/>
 ***Contact Me:*** <br/>
