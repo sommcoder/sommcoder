@@ -47,3 +47,7 @@
 [<img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" />](mailto:brian.davies589@gmail.com)
 [<img src="https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=fff&style=for-the-badge" />](mailto:brian.davies@sommcoder.com)
 
+
+<!-- BADGIE TIME -->
+<!-- END BADGIE TIME -->
+
