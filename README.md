@@ -1,3 +1,6 @@
+***Portfolio/Freelance Website:*** <br/>
+<a href="https://www.sommcoder.com">https://www.sommcoder.com</a> <br/>
+
 ***About Me:***
 - 👋 Hi, I’m @sommcoder, a Toronto wine sommelier turned web developer!
 - 📖 I’m proficient in JavaScript (ES6+), CSS3, HTML5 and modern React (18+) using function components & Hooks!
@@ -5,10 +8,6 @@
 - 👀 I’m interested in e-commerce, ERPs, PWAs and SaaS app development.
 - ⚒️ I’m currently freelancing on Shopify but am open to fulltime employment!
 - 🏘️ I'm also looking to join any kind of software developer community groups and attend networking events!
-
-***Portfolio/Freelance Website:*** <br/>
-<a href="https://www.sommcoder.com">https://www.sommcoder.com</a> <br/>
-
 
 ***Primary Skillset:*** <br/>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
