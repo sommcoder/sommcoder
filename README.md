@@ -1,7 +1,7 @@
-***Portfolio/Freelance Website:*** <br/>
+## Portfolio/Freelance Website: <br/>
 <a href="https://www.sommcoder.com">https://www.sommcoder.com</a> <br/>
 
-***About Me:***
+## About Me:
 - 👋 Hi, I’m SommCoder, a Toronto wine sommelier turned web developer!
 - 📖 I’m proficient in JavaScript (ES2023), CSS3, HTML5 and modern React (18+) using function components & Hooks!
 - 🌱 I'm currently building a wine tasting and recording app with Next.js, Prisma and PostgreSQL.
