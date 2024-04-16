@@ -42,6 +42,7 @@
 ![Babel Badge](https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=000&style=for-the-badge)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 ![Pug Badge](https://img.shields.io/badge/Pug-A86454?logo=pug&logoColor=fff&style=for-the-badge)
+![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=for-the-badge)
 <br/><br/>
 ***Workspace Toolbox:*** <br/>
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
