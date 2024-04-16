@@ -1,12 +1,12 @@
+About Me: <br/>
 - 👋 Hi, I’m @sommcoder, a Toronto wine sommelier turned web developer!
 - 📖 I’m proficient in JavaScript (ES6+), CSS3, HTML5 and modern React (18+) using function components & Hooks!
 - 🌱 I'm currently learning Next.js and aim to use it for my next project!
 - 👀 I’m interested in e-commerce, ERPs, PWAs and SaaS app development.
 - ⚒️ I’m currently freelancing on Shopify but am open to fulltime employment!
 - 🏘️ I'm also looking to join any kind of software developer community groups or attend networking events!
-- 📫 Contact me: brian.davies589@gmail.com!<br/>
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Link" >](https://www.linkedin.com/in/brian-davies-178b0b48/)
-
+<br/>
+<br/>
 Primary Skillset:<br/>
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
@@ -33,4 +33,8 @@ Workspace Toolbox: <br/>
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
 ![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge)
+<br/>
+Contact Me:<br/>
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Link" >](https://www.linkedin.com/in/brian-davies-178b0b48/)
+![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)(mailto:brian.davies589Gmail.com)
 
