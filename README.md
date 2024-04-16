@@ -5,8 +5,7 @@ About Me: <br/>
 - 👀 I’m interested in e-commerce, ERPs, PWAs and SaaS app development.
 - ⚒️ I’m currently freelancing on Shopify but am open to fulltime employment!
 - 🏘️ I'm also looking to join any kind of software developer community groups or attend networking events!
-<br/>
-<br/>
+
 Primary Skillset: <br/>
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
