@@ -7,7 +7,7 @@ About Me:
 - 🏘️ I'm also looking to join any kind of software developer community groups or attend networking events!
 
 
-<div style="text-align: center;">Portfolio/Freelance Website: <br/></div>
+<div style="text-align: center;">Portfolio/Freelance Website: </div><br/>
 <a href="https://www.sommcoder.com">https://www.sommcoder.com</a> <br/>
 
 Primary Skillset: <br/>
