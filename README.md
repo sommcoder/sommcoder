@@ -42,6 +42,10 @@
 ![i18next Badge](https://img.shields.io/badge/i18next-26A69A?logo=i18next&logoColor=fff&style=for-the-badge)
 [![Liquid Badge](https://img.shields.io/badge/Liquid-Open%20Source-2B317C?style=for-the-badge&logo=liquid&logoColor=white)](https://www.liquid.com/)
 ![Lighthouse Badge](https://img.shields.io/badge/Lighthouse-F44B21?logo=lighthouse&logoColor=fff&style=for-the-badge)
+![Notion Badge](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge)
+![Loom Badge](https://img.shields.io/badge/Loom-625DF5?logo=loom&logoColor=fff&style=for-the-badge)
+![QuickBooks Badge](https://img.shields.io/badge/QuickBooks-2CA01C?logo=quickbooks&logoColor=fff&style=for-the-badge)
+![Stripe Badge](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=fff&style=for-the-badge)
 <br/><br/>
 ## Tertiary Skillset (tech I have worked with):  <br/>
 ![Prisma Badge](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff&style=for-the-badge)
