@@ -25,7 +25,7 @@
 ![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
 ![Google Sheets Badge](https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=fff&style=for-the-badge)
-<br/>
+<br/><br/>
 ***Secondary Skillset (tech I occasionally work with):***  <br/>
 ![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
@@ -39,8 +39,6 @@
 ![ESLint Badge](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=fff&style=for-the-badge)
 ![i18next Badge](https://img.shields.io/badge/i18next-26A69A?logo=i18next&logoColor=fff&style=for-the-badge)
 [![Liquid Badge](https://img.shields.io/badge/Liquid-Open%20Source-2B317C?style=for-the-badge&logo=liquid&logoColor=white)](https://www.liquid.com/)
-
-
 <br/><br/>
 ***Tertiary Skillset (tech I have worked with):***  <br/>
 ![Prisma Badge](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff&style=for-the-badge)
