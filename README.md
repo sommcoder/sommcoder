@@ -33,18 +33,20 @@
 ![Google Drive Badge](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff&style=for-the-badge)
 <br/><br/>
 ## Secondary Skillset (tech I occasionally work with): <br/>
+#### Open Source Tech:
 ![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
-![Google Cloud Badge](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=for-the-badge)
 ![React Router Badge](https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=for-the-badge)
 ![React Query Badge](https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff&style=for-the-badge)
 ![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=for-the-badge)
 ![Axios Badge](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=for-the-badge)
-![Squarespace Badge](https://img.shields.io/badge/Squarespace-000?logo=squarespace&logoColor=fff&style=for-the-badge)
 ![CSS Modules Badge](https://img.shields.io/badge/CSS%20Modules-000?logo=cssmodules&logoColor=fff&style=for-the-badge)
+[![Liquid Badge](https://img.shields.io/badge/Liquid-Open%20Source-2B317C?style=for-the-badge&logo=liquid&logoColor=white)](https://www.liquid.com/)
+#### Tech Platforms:
+![Google Cloud Badge](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=for-the-badge)
+![Squarespace Badge](https://img.shields.io/badge/Squarespace-000?logo=squarespace&logoColor=fff&style=for-the-badge)
 ![ESLint Badge](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=fff&style=for-the-badge)
 ![i18next Badge](https://img.shields.io/badge/i18next-26A69A?logo=i18next&logoColor=fff&style=for-the-badge)
-[![Liquid Badge](https://img.shields.io/badge/Liquid-Open%20Source-2B317C?style=for-the-badge&logo=liquid&logoColor=white)](https://www.liquid.com/)
 ![Lighthouse Badge](https://img.shields.io/badge/Lighthouse-F44B21?logo=lighthouse&logoColor=fff&style=for-the-badge)
 ![Notion Badge](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge)
 ![Loom Badge](https://img.shields.io/badge/Loom-625DF5?logo=loom&logoColor=fff&style=for-the-badge)
