@@ -3,7 +3,7 @@
 
 ***About Me:***
 - 👋 Hi, I’m SommCoder, a Toronto wine sommelier turned web developer!
-- 📖 I’m proficient in JavaScript (ES6+), CSS3, HTML5 and modern React (18+) using function components & Hooks!
+- 📖 I’m proficient in JavaScript (ES2023), CSS3, HTML5 and modern React (18+) using function components & Hooks!
 - 🌱 I'm currently building a wine tasting and recording app with Next.js, Prisma and PostgreSQL.
 - 👀 I’m interested in e-commerce, ERPs, PWAs and SaaS app development.
 - ⚒️ I’m currently freelancing on Shopify but am open to fulltime employment!
