@@ -10,7 +10,7 @@
 - 🏘️ I'm also looking to join any kind of software developer community groups and attend networking events!
 
 
-##**Primary Skillset (tech I use all the time):*  <br/>
+#Primary Skillset (tech I use all the time):  <br/>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
