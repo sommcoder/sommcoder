@@ -9,6 +9,8 @@
 - ⚒️ I’m currently freelancing on Shopify but am open to fulltime employment!
 - 🏘️ I'm also looking to join any kind of software developer community groups and attend networking events!
 
+
+<span style="font-size: larger;">Primary Skillset (tech I use all the time):</span>
 ***Primary Skillset (tech I use all the time):***  <br/>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
