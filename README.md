@@ -6,4 +6,4 @@
 - 🏘️ I'm also looking to join any kind of software developer community groups or attend networking events!
 - 📫 Contact me: brian.davies589@gmail.com!
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-davies-178b0b48/)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/brian-davies-178b0b48/)]
