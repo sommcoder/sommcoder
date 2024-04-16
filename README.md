@@ -9,6 +9,9 @@
 ***Portfolio/Freelance Website:*** <br/>
 <a href="https://www.sommcoder.com">https://www.sommcoder.com</a> <br/>
 
+<p align="center">
+  <span style="font-size:larger;">Primary Skillset:</span>
+</p>
 ***Primary Skillset:*** <br/>
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
