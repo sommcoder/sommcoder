@@ -6,7 +6,7 @@ About Me:
 - ⚒️ I’m currently freelancing on Shopify but am open to fulltime employment!
 - 🏘️ I'm also looking to join any kind of software developer community groups or attend networking events!
 
-<span style="font-size:larger;">Portfolio/Freelance Website:</span>
+<span style="font-size: 18px;">Portfolio/Freelance Website:</span>
 <a href="https://www.sommcoder.com">https://www.sommcoder.com</a> <br/>
 
 Primary Skillset: <br/>
