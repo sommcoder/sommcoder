@@ -4,7 +4,7 @@
 - 🌱 I'm currently building a wine tasting and recording app with Next.js, Prisma and PostgreSQL.
 - 👀 I’m interested in e-commerce, ERPs, PWAs and SaaS app development.
 - ⚒️ I’m currently freelancing on Shopify but am open to fulltime employment!
-- 🏘️ I'm also looking to join any kind of software developer community groups or attend networking events!
+- 🏘️ I'm also looking to join any kind of software developer community groups and attend networking events!
 
 ***Portfolio/Freelance Website:*** <br/>
 <a href="https://www.sommcoder.com">https://www.sommcoder.com</a> <br/>
