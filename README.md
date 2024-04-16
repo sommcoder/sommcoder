@@ -6,6 +6,7 @@ About Me:
 - ⚒️ I’m currently freelancing on Shopify but am open to fulltime employment!
 - 🏘️ I'm also looking to join any kind of software developer community groups or attend networking events!
 
+<div style="text-align: center;">
 Portfolio/Freelance Website: <br/>
 <a href="https://www.sommcoder.com">https://www.sommcoder.com</a> <br/>
 
@@ -46,4 +47,5 @@ Contact Me:<br/>
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Link" >](https://www.linkedin.com/in/brian-davies-178b0b48/)
 [<img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" />](mailto:brian.davies589@gmail.com)
 [<img src="https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=fff&style=for-the-badge" />](mailto:brian.davies@sommcoder.com)
+</div>
 
