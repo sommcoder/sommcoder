@@ -1,10 +1,13 @@
-About Me: <br/>
+About Me:
 - 👋 Hi, I’m @sommcoder, a Toronto wine sommelier turned web developer!
 - 📖 I’m proficient in JavaScript (ES6+), CSS3, HTML5 and modern React (18+) using function components & Hooks!
 - 🌱 I'm currently learning Next.js and aim to use it for my next project!
 - 👀 I’m interested in e-commerce, ERPs, PWAs and SaaS app development.
 - ⚒️ I’m currently freelancing on Shopify but am open to fulltime employment!
 - 🏘️ I'm also looking to join any kind of software developer community groups or attend networking events!
+
+Portfolio/Freelance Website: <br/>
+
 
 Primary Skillset: <br/>
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
@@ -29,6 +32,7 @@ Additional Skillset:<br/>
 ![Remix Badge](https://img.shields.io/badge/Remix-000?logo=remix&logoColor=fff&style=for-the-badge)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
+![Sass Badge](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=for-the-badge)
 <br/>
 Workspace Toolbox: <br/>
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge)
@@ -36,8 +40,10 @@ Workspace Toolbox: <br/>
 ![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge)
 ![Prettier Badge](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=fff&style=for-the-badge)
 ![.ENV Badge](https://img.shields.io/badge/.ENV-ECD53F?logo=dotenv&logoColor=000&style=for-the-badge)
+![MDN Web Docs Badge](https://img.shields.io/badge/MDN%20Web%20Docs-000?logo=mdnwebdocs&logoColor=fff&style=for-the-badge)
 <br/>
 Contact Me:<br/>
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Link" >](https://www.linkedin.com/in/brian-davies-178b0b48/)
 [<img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" />](mailto:brian.davies589@gmail.com)
+[<img src="https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=fff&style=for-the-badge" />](mailto:brian.davies@sommcoder.com)
 
