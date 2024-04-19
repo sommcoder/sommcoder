@@ -1,5 +1,7 @@
 ## Portfolio/Freelance Website: <br/>
 <a href="https://www.sommcoder.com">https://www.sommcoder.com</a> <br/>
+![SommCoder Website](https://www.sommcoder.com/SOMMCODER-logo.svg)
+
 
 ## About Me:
 - 👋 Hi, I’m Brian Davies (aka SommCoder), a wine sommelier turned web developer!
