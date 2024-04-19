@@ -1,5 +1,5 @@
 ## Portfolio/Freelance Website: <br/>
-click me: <br/>
+<i>click me:</i> <br/>
 [<img src="https://www.sommcoder.com/SOMMCODER-logo.svg" />](https://www.sommcoder.com)
 
 ## About Me:
