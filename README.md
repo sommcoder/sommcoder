@@ -41,7 +41,7 @@
 ![Axios Badge](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=for-the-badge)
 ![CSS Modules Badge](https://img.shields.io/badge/CSS%20Modules-000?logo=cssmodules&logoColor=fff&style=for-the-badge)
 [![Liquid Badge](https://img.shields.io/badge/Liquid-Open%20Source-2B317C?style=for-the-badge&logo=liquid&logoColor=white)](https://www.liquid.com/)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+![Expo Framework](https://img.shields.io/badge/Expo-000020.svg?style=for-the-badge&logo=Expo&logoColor=white)
 ![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge)
 ![i18next Badge](https://img.shields.io/badge/i18next-26A69A?logo=i18next&logoColor=fff&style=for-the-badge)
 <br/><br/>
