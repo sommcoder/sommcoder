@@ -4,7 +4,7 @@
 ## About Me:
 - 👋 Hi, I’m Brian Davies (aka SommCoder), a wine sommelier turned web developer!
 - 📖 I’m proficient in JavaScript (ES2023), CSS3, HTML5 and modern React (18+) using function components & Hooks!
-- 🌱 I'm currently building a wine tasting and recording app with Next.js, Prisma and PostgreSQL.
+- 🌱 I'm currently building a multi-platform wine tasting app with Next.js, React-Native/Expo and PostgreSQL.
 - 👀 I’m interested in e-commerce, ERPs, PWAs, SaaS app development and mobile development!
 - ⚒️ I’m currently freelancing on Shopify but am open to fulltime employment!
 - 🏘️ I'm also looking to join any kind of software developer community groups and attend networking events!
