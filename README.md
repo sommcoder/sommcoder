@@ -4,7 +4,7 @@
 ## About Me:
 - 👋 Hi, I’m Brian Davies (aka SommCoder), a wine sommelier turned web developer!
 - 📖 I’m proficient in JavaScript (ES2023), CSS3, HTML5 and React (v18+) with a focus on modern function components & Hooks!
-- 🌱 I'm currently building a Shopify app that allows customers to upload file(s) to their orders for merchants to view on the backend.
+- 🌱 I'm currently building a Shopify app that allows customers to upload file(s) to their order for merchants to view on the backend such as for custom-made products.
 - 👀 I’m interested primarily in the B2B SaaS and e-commerce sectors of software development but I'm open to branching out for the right role!
 - ⚒️ I’m currently freelancing on Shopify but am open to fulltime employment!
 - 🏘️ I'm also looking to join any kind of software developer community groups and attend networking events!
